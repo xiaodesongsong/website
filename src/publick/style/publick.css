@@ -1,0 +1,9 @@
+*{padding: 0;margin: 0}
+body{ font-size: 16px }
+ul,li{list-style:none}
+.pointer{cursor: pointer;}
+.left{float: left;}
+.right{float: right;}
+.i-block{display: inline-block;}
+img{border:0;vertical-align:middle;display: block}
+table{border-collapse:collapse;border-spacing:0}
